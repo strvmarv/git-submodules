@@ -1,0 +1,3 @@
+[submodule "git-submodules-module"]
+	path = git-submodules-module
+	url = https://github.com/strvmarv/git-submodules-module
